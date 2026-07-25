@@ -59,9 +59,6 @@ fun_fact: "I turn coffee into code and problems into solutions ☕"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushThawkar-14&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PiyushThawkar-14&theme=onedark&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
 
 ---
 
@@ -81,15 +78,19 @@ fun_fact: "I turn coffee into code and problems into solutions ☕"
   <tr>
     <td align="center" width="400">
       <a href="https://github.com/PiyushThawkar-14/serverless-image-pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushThawkar-14&repo=serverless-image-pipeline&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/PiyushThawkar-14/serverless-image-pipeline" width="100%" />
       </a>
+      <br />
+      <b>serverless-image-pipeline</b>
       <br />
       <sub>Production-ready serverless image processing on AWS — Lambda (Sharp) + S3 + DynamoDB</sub>
     </td>
     <td align="center" width="400">
       <a href="https://github.com/PiyushThawkar-14/linux-commander">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushThawkar-14&repo=linux-commander&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/PiyushThawkar-14/linux-commander" width="100%" />
       </a>
+      <br />
+      <b>linux-commander</b>
       <br />
       <sub>A terminal game to master Linux commands 🎮</sub>
     </td>
