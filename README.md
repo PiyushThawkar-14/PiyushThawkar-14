@@ -50,8 +50,8 @@ fun_fact: "I turn coffee into code and problems into solutions ☕"
 
 <p align="center">
   <a href="https://github.com/PiyushThawkar-14">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiyushThawkar-14&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushThawkar-14&layout=compact&theme=github_dark&hide_border=true" />
+    <img height="180em" src="https://ghstats.dev/api/card?username=PiyushThawkar-14&theme=dark&show_icons=true" />
+    <img height="180em" src="https://ghstats.dev/api/top-langs?username=PiyushThawkar-14&theme=dark&layout=compact" />
   </a>
 </p>
 
