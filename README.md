@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Piyush%20Thawkar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer%20%7C%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Linux&descAlignY=52&descAlign=50" alt="Piyush Thawkar — Aspiring DevOps & Cloud Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Piyush%20Thawkar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20DevOps%20%26amp%3B%20Cloud%20Engineer%20%7C%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Linux&descAlignY=52&descAlign=50" alt="Piyush Thawkar — Aspiring DevOps & Cloud Engineer">
 
 <p align="center">
   <a href="https://github.com/PiyushThawkar-14">
