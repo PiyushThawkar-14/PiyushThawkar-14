@@ -98,19 +98,9 @@ approach: "Build it, break it, then automate it."
   <a href="mailto:piyushpt1432@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/piyush-thawkar14">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
-<!-- TODO (pending): add these two badges inside the <p> above once ready.
-
-  LinkedIn — create the profile first, then paste the real URL:
-<a href="https://linkedin.com/in/piyush-thawkar14">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  Resume — upload the CV as a PDF (Google Drive: share as "anyone with link"), then:
-  <a href="YOUR_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=&fontSize=0" alt="">
