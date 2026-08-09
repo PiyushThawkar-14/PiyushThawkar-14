@@ -103,8 +103,8 @@ approach: "Build it, break it, then automate it."
 <!-- TODO (pending): add these two badges inside the <p> above once ready.
 
   LinkedIn — create the profile first, then paste the real URL:
-  <a href="https://linkedin.com/in/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/piyush-thawkar14">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   Resume — upload the CV as a PDF (Google Drive: share as "anyone with link"), then:
