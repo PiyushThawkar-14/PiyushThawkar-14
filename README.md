@@ -1,9 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=Piyush%20Thawkar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20DevOps%20%26amp%3B%20Cloud%20Engineer%20%7C%20Python%20%E2%80%A2%20AWS%20%E2%80%A2%20Linux&descAlignY=52&descAlign=50" alt="Piyush Thawkar — Aspiring DevOps & Cloud Engineer">
-
 <p align="center">
-  <a href="https://github.com/PiyushThawkar-14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=DevOps+%26+Cloud+Enthusiast;Python+%7C+AWS+%7C+Linux;Building+Developer+Tools;Learning+In+Public" alt="Typing SVG">
-  </a>
+  <img src="./assets/profile-build.svg" width="100%" alt="Piyush Thawkar — Aspiring DevOps &amp; Cloud Engineer">
 </p>
 
 ---
